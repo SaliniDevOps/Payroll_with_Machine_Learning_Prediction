@@ -1,0 +1,93 @@
+.esGroundItemUL{
+background:none;
+  position: static;
+  top:520px;
+  left:87px;
+  overflow-x:auto;
+  width:1146px;
+   height: 290px;
+  box-shadow: 0 0 15px #333;
+}
+section {
+  position: relative;
+  border: 1px solid #aeb6b7;
+  padding-top: 37px;
+  background: none;
+   width:none;
+}
+section.positioned {
+ /*  position: absolute; */
+ /*
+  top:510px;
+  left:83px;
+ */
+  width:1144px;
+  box-shadow: 0 0 15px #333;
+}
+.container {
+  overflow-y: auto;
+  height: 240px;
+  width:none;
+}
+
+#tablebackgroundES_4 { width:1140px; height: 270px; background:none; float:left; margin: 10px 0px 10px 10px; padding: 2px 1px 1px 1px; }
+/*---------------Auto select ------------------------*/
+#left { 
+    width:200px;
+    min-height: 100px;
+    background:;
+    float:left;
+}
+.suggestionsBox {
+	position: absolute;
+	left: 195px;
+	top:204px;
+	background-color: #fff;
+	width: 217px;
+	border: 1px solid #2d8f9b;
+}
+#suggesstions ul li {
+	list-style:none;
+	margin: 1px;
+	padding: 1px;
+	border-bottom:1px dotted #666;
+	cursor: pointer;
+	
+}
+#suggesstions ul li:hover {
+	background-color: #c1c2cb;
+	color:#000;
+	
+}
+
+ul {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color:#FFF;
+	padding:4px;
+	margin:4px;
+}
+
+
+
+.suggestionsBox1 {
+	position: absolute;
+	left: 195px;
+	top:200;
+	background-color: #fff;
+	width: 217px;
+	border: 1px solid #2d8f9b;
+}
+	#suggesstions1 ul li {
+	list-style:none;
+	margin: 0px;
+	padding: 0px;
+	border-bottom:1px dotted #666;
+	cursor: pointer;
+
+}
+#suggesstions1 ul li:hover {
+	background-color: #c1c2cb;
+	color:#000;
+	
+}
